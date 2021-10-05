@@ -2,4 +2,4 @@
 # Flutter-facebook-UI
 
 project demo
-![alt text for screen readers](assets/demo.png "Text to show on mouseover")
+![alt text for screen readers](assets/demo. "Text to show on mouseover")
